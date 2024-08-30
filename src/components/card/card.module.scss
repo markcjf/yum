@@ -1,13 +1,16 @@
 .root {
   border-radius: 12px;
   background: var(--background-white);
-  margin-right: auto;
-  margin-left: auto;
   &:hover {
     cursor: pointer;
     box-shadow: 0 8px 16px -4px var(--background-black);
     opacity: 90%;
   }
+  margin-right: 0px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  margin-top: 8px;
+  border: 1px solid #b3b0b0;
 }
 .image {
   width: 100%;
