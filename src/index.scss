@@ -45,7 +45,7 @@ p {
   margin: 0;
 }
 
-img{
+img {
   vertical-align: middle;
 }
 
@@ -53,4 +53,5 @@ img{
 *:before,
 *:after {
   box-sizing: inherit;
+  overflow: hidden;
 }
